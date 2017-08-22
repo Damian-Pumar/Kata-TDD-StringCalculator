@@ -1,4 +1,4 @@
-Build CI: [![Build Status](https://travis-ci.org/Damian-Pumar/Kata-TDD-StringCalculator.svg?branch=master)](https://travis-ci.org/Damian-Pumar/Kata-TDD-StringCalculator)
+### Build CI: [![Build Status](https://travis-ci.org/Damian-Pumar/Kata-TDD-StringCalculator.svg?branch=master)](https://travis-ci.org/Damian-Pumar/Kata-TDD-StringCalculator)
 
 # String Calculator Kata
 The following is a TDD Kata, an exercise in coding, refactoring and test-first, that you should apply daily for at least 15-30 minutes.
